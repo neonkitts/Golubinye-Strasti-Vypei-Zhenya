@@ -2,7 +2,9 @@
 
 **Одиночное 3D-приключение на ночном фестивале в Мексике.** Женя знакомится с гостями, выполняет задания, исследует площадь и влияет на финал через диалоги и действия.
 
-[⬇️ Скачать Windows-сборку](https://github.com/neonkitts/Golubinye-Strasti-Vypei-Zhenya/releases/tag/v2026.10.19)
+[⬇️ Скачать Windows ZIP](https://github.com/neonkitts/Golubinye-Strasti-Vypei-Zhenya/releases/download/v2026.10.19/Golubinye-Strasti-Vypei-Zhenya-Windows.zip) · [📦 Страница релиза](https://github.com/neonkitts/Golubinye-Strasti-Vypei-Zhenya/releases/tag/v2026.10.19)
+
+**Где файлы:** готовая Windows-сборка находится во вкладке **Releases**. В основной ветке размещены описание и скриншоты; исходный код этой игры не публиковался по запросу «только Windows-сборку».
 
 ![Фестиваль и главная героиня](screenshots/gameplay.png)
 
